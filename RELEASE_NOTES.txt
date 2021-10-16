@@ -5,12 +5,12 @@ This is the second ALPHA release in the 5.2 release series that fixes a regressi
 in the TLS layer introduced by the previous ALPHA and adds a number of incremental
 improvements.
 
-Please note that 5.2 upgrades minimal JRE level to version 1.8 (8u251 is required).
+Please note that 5.2 upgrades minimal JRE level to version 8 (8u251 is required).
 
 
 Notable changes and features included in the 5.2 series:
 
-* Upgrade to Java 1.8.
+* Upgrade to Java 8.
 
 * Improved support for TLS upgrade and HTTP protocol upgrade (async).
 
